@@ -1,0 +1,113 @@
+{
+	"DefaultLngId": 1,
+	"Languages": [{
+			"ID": 1,
+			"Title": "English",
+			"Abbrev": "EN",
+			"Url": "74fdb892-187b-4078-81e2-ab788ae17539.jpg"
+		}, {
+			"ID": 2,
+			"Title": "French",
+			"Abbrev": "FR",
+			"Url": "5a208e1f-1579-43dc-8d1b-34481864b010.jpg"
+		}, {
+			"ID": 3,
+			"Title": "Chinese",
+			"Abbrev": "CN",
+			"Url": "c8f20a2b-7c40-49e3-bb60-1e491b8435d6.jpg"
+		}, {
+			"ID": 4,
+			"Title": "Russian",
+			"Abbrev": "RU",
+			"Url": "1fd7d185-84f7-4c36-b5c5-55609bc1209a.jpg"
+		}
+	],
+	"Literals": [{
+			"ID": "Public_Menu_Header",
+			"Hint": "Manin menu header text",
+			"Values": [{
+					"L": 1,
+					"T": "Menu"
+				}, {
+					"L": 2,
+					"T": "FR:Menu"
+				}, {
+					"L": 4,
+					"T": "RU:Menu"
+				}, {
+					"L": 3,
+					"T": "CH:Menu"
+				}
+			]
+		}, {
+			"ID": "Public_Menu_Description",
+			"Hint": "Manin menu header text bottom",
+			"Values": [{
+					"L": 1,
+					"T": "Pay us"
+				}, {
+					"L": 2,
+					"T": "FR:Pay us"
+				}
+			]
+		}, {
+			"ID": "Footer_Text",
+			"Hint": "Footer company name",
+			"Values": [{
+					"L": 1,
+					"T": "Ferskur-2020"
+				}, {
+					"L": 2,
+					"T": "FR:Ferskur-2020"
+				}, {
+					"L": 4,
+					"T": "Ферскур-2020"
+				}
+			]
+		}
+	],
+	"Imanges": [{
+			"ID": "Logo",
+			"Hint": "Company Logo",
+			"Urls": [{
+					"L": 1,
+					"V": ["5a208e1f-1579-43dc-8d1b-34481864b010.jpg"]
+				}, {
+					"L": 2,
+					"V": ["5a208e1f-1579-43dc-8d1b-34481864b010.jpg"]
+				}, {
+					"L": 3,
+					"V": []
+				}
+			]
+		}, {
+			"ID": "Logo_Detailed",
+			"Hint": "Company Logo Detailed",
+			"Urls": [{
+					"L": 1,
+					"V": ["5a208e1f-1579-43dc-8d1b-34481864b010.jpg"]
+				}, {
+					"L": 2,
+					"V": ["5a208e1f-1579-43dc-8d1b-34481864b010.jpg"]
+				}
+			]
+		}, {
+			"ID": "Mani_Slider",
+			"Hint": "Top Big Slider on Home Page",
+			"Urls": [{
+					"L": 1,
+					"V": ["5a208e1f-1579-43dc-8d1b-34481864b010.jpg",
+						"5a208e1f-1579-43dc-8d1b-34481864b010.jpg"]
+				}, {
+					"L": 2,
+					"V": ["5a208e1f-1579-43dc-8d1b-34481864b010.jpg",
+						"5a208e1f-1579-43dc-8d1b-34481864b010.jpg"]
+				}, {
+					"L": 3,
+					"V": ["5a208e1f-1579-43dc-8d1b-34481864b010.jpg",
+						"5a208e1f-1579-43dc-8d1b-34481864b010.jpg"]
+				}
+			]
+		}
+	]
+}
